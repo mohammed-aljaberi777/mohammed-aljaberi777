@@ -18,6 +18,5 @@ Currently building backend systems with Python and FastAPI.
 - 📧 mohammed.aljaberi777@gmail.com
 
 ## 📌 Featured Projects
-- [Project Name](repo-link) — one sentence description
-- [Project Name](repo-link) — one sentence description
+- [Frontend Project](https://github.com/mohammed-aljaberi777/frontend-project) — Modern responsive frontend application built using Vite.
 ```
