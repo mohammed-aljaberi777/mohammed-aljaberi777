@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Mohammed Aljaberi] 👋
 
-<!--
-**mohammed-aljaberi777/mohammed-aljaberi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer Engineering student at Final International University, North Cyprus.
+Currently building backend systems with Python and FastAPI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL,c ,c++, c#
+- **Frameworks:** FastAPI,Django
+- **Tools:** Git, Docker, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- Digital image processing (ELEE474)
+
+## 🔗 Connect With Me
+- [LinkedIn](your-linkedin-url)
+- [LeetCode](your-leetcode-url)
+- 📧 mohammed.aljaberi777@gmail.com
+
+## 📌 Featured Projects
+- [Project Name](repo-link) — one sentence description
+- [Project Name](repo-link) — one sentence description
+```
