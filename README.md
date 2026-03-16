@@ -1,6 +1,6 @@
 # Hi, I'm [Mohammed Aljaberi] 👋
 
-I'm a computer Engineering student at Final International University, North Cyprus.
+I'm a computer Engineer student at Final International University, North Cyprus.
 Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
